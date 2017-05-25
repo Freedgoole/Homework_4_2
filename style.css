@@ -1,0 +1,32 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+.conteiner {
+	width: 600px;
+	height: 600px;
+	/*border: 1px solid red;*/
+	margin: 0 auto;
+}
+.square {
+	height: 200px;
+	width: 200px;
+	background: #791C16;
+	float: left;
+}
+.white {
+	background: white;
+}
+.sln {
+	background: url(./photoshop_assets_2-master/assets/black_bishop-512.png) no-repeat 50% center;
+	background-size: 90%;
+}
+.hrs {
+	background: url(./photoshop_assets_2-master/assets/white_knight-512.png) no-repeat center;
+	background-size: 90%;
+}
+.rook{
+	background: url(./photoshop_assets_2-master/assets/white_rook-512.png) no-repeat center;
+	background-size: 90%;
+}
